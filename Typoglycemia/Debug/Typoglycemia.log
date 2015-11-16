@@ -1,0 +1,20 @@
+﻿Build started 11/15/2015 7:00:45 PM.
+     1>Project "E:\Benjamin\Programming\VisualStudioProjects\DailyProgrammer\Easy\Typoglycemia\Typoglycemia\Typoglycemia.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\Typoglycemia.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Typoglycemia.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Typoglycemia.cpp
+         Typoglycemia.cpp
+     1>e:\benjamin\programming\visualstudioprojects\dailyprogrammer\easy\typoglycemia\typoglycemia\typoglycemia.cpp(31): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>e:\benjamin\programming\visualstudioprojects\dailyprogrammer\easy\typoglycemia\typoglycemia\typoglycemia.cpp(35): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+     1>e:\benjamin\programming\visualstudioprojects\dailyprogrammer\easy\typoglycemia\typoglycemia\typoglycemia.cpp(44): warning C4018: '<': signed/unsigned mismatch
+     1>e:\benjamin\programming\visualstudioprojects\dailyprogrammer\easy\typoglycemia\typoglycemia\typoglycemia.cpp(49): warning C4018: '<': signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Benjamin\Programming\VisualStudioProjects\DailyProgrammer\Easy\Typoglycemia\Debug\Typoglycemia.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\Benjamin\Programming\VisualStudioProjects\DailyProgrammer\Easy\Typoglycemia\Debug\Typoglycemia.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Benjamin\Programming\VisualStudioProjects\DailyProgrammer\Easy\Typoglycemia\Debug\Typoglycemia.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\Typoglycemia.obj
+         Typoglycemia.vcxproj -> E:\Benjamin\Programming\VisualStudioProjects\DailyProgrammer\Easy\Typoglycemia\Debug\Typoglycemia.exe
+     1>Done Building Project "E:\Benjamin\Programming\VisualStudioProjects\DailyProgrammer\Easy\Typoglycemia\Typoglycemia\Typoglycemia.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.13
